@@ -1,15 +1,10 @@
-# OpenVPN for Docker
-
-[![Build Status](https://travis-ci.org/marcodangelo/docker-openvpn.svg)](https://travis-ci.org/marcodangelo/docker-openvpn)
-[![Docker Stars](https://img.shields.io/docker/stars/marcodangelo/AzureOpenVpn.svg)](https://hub.docker.com/r/marcodangelo/AzureOpenVpn/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/marcodangelo/AzureOpenVpn.svg)](https://hub.docker.com/r/marcodangelo/AzureOpenVpn/)
-[![ImageLayers](https://images.microbadger.com/badges/image/marcodangelo/AzureOpenVpn.svg)](https://microbadger.com/#/images/marcodangelo/AzureOpenVpn)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarcodangelo%2Fdocker-openvpn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarcodangelo%2Fdocker-openvpn?ref=badge_shield)
+# AzureOpenVPN Container
 
 
-Use AzureOpenVPN to runa container in Azure 
 
-Tested on Azure.com
+Use AzureOpenVPN to run a docker container in Azure 
+
+
 
 #### Upstream Links
 
