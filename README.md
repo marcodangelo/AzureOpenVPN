@@ -8,8 +8,8 @@ Use AzureOpenVPN to run a docker container in Azure
 
 #### Upstream Links
 
-* Docker Registry @ [marcodangelo/AzureOpenVpn](https://hub.docker.com/r/marcodangelo/AzureOpenVpn/)
-* GitHub @ [marcodangelo/docker-openvpn](https://github.com/marcodangelo/docker-openvpn)
+* Docker Registry @ [marcodangelo/AzureOpenVpn](https://hub.docker.com/r/marcodangelo/OpenVpn/)
+* GitHub @ [marcodangelo/AzureOpenVPN](https://github.com/marcodangelo/AzureOpenVPN)
 
 ## Quick Start
 
